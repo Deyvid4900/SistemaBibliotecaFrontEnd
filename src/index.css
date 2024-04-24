@@ -1,0 +1,33 @@
+.bg-primary{
+    background-color: #79b6c9  !important;
+}
+.btn-primary{
+    background-color: #79b6c9 !important;
+    border-color: #79b6c9;
+}
+.text-primary{
+    color: #79b6c9 !important;
+}
+
+.bg-danger{
+    background-color: 	#E97451;
+}
+.btn-danger{
+    background-color: 	#E97451;
+    border-color: 	#E97451;
+}
+.text-danger{
+    color: 	#E97451;
+}
+
+
+.bg-success{
+    background-color: 	#AFE1AF;
+}
+.btn-success{
+    background-color: 	#AFE1AF;
+    border-color: 	#AFE1AF;
+}
+.text-success{
+    color: 	#AFE1AF;
+}
