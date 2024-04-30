@@ -179,6 +179,7 @@ function Books() {
         {selectedButton === 0 && (
           <div style={{ overflowY: "auto", maxHeight: "75vh" }}>
             {Books.length != 0 ? (
+              <div className="table-responsive-sm">
               <table className="table table-striped">
                 <thead>
                   <tr>
@@ -217,6 +218,7 @@ function Books() {
                   )}
                 </tbody>
               </table>
+              </div>
             ) : (
               <></>
             )}
